@@ -6,10 +6,10 @@ Karabiner-Elements позволяет сменить назначение люб
 Схема действия приложения проста: оно подменяет сигналы, поступающие от клавиатуры к системе. 
 
 Первая вкладка Karabiner-Elements позволяет подменять функции одних клавиш другими или отключить ненужные.
-![Simple Modifications](https://cdn.lifehacker.ru/wp-content/uploads/2017/08/Snimok-ekrana-2017-08-17-v-23.16.31_1502999825.jpg)
+![Simple Modifications](https://github.com/irynaby/MyMacOsX/blob/master/images/1_step.jpg)
 
 Приложение позволяет изменить настройки функциональных клавиш, а также переключить поведение клавиши Fn.
-![Function keys](https://cdn.lifehacker.ru/wp-content/uploads/2017/08/Snimok-ekrana-2017-08-17-v-23.15.49_1502999885.jpg)
+![Function keys](https://github.com/irynaby/MyMacOsX/blob/master/images/2_step.jpg)
 
 ## Как изменить раскладку клавиатуры
 ### Изменения раскладки клавиатуры с помощью клавиши Caps Lock. 
@@ -19,5 +19,8 @@ Karabiner-Elements позволяет сменить назначение люб
 1. Отключите системное действие Caps Lock. 
 «Системные настройки» -> «Клавиатура» -> «Клавиши модификации». 
 Выберите для Caps Lock настройку «Никакого действия».
-![настройки](https://cdn.lifehacker.ru/wp-content/uploads/2017/08/Snimok-ekrana-2017-08-18-v-0.31.38_1502999946.jpg)
+![настройки](https://github.com/irynaby/MyMacOsX/blob/master/images/3_step.jpg)
 2. Создайте в Karabiner-Elements новое правило для Caps Lock, ассоциировав её с несуществующей на вашей клавиатуре функциональной клавишей, например F19.
+![настройки](https://github.com/irynaby/MyMacOsX/blob/master/images/4_step.jpg)
+3. Вернитесь в настройки клавиатуры. Во вкладке «Сочетания клавиш» -> «Источники ввода». Установите F19 для выбора языка ввода, нажав Caps Lock.
+![настройки](https://github.com/irynaby/MyMacOsX/blob/master/images/5_step.jpg)
