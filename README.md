@@ -10,3 +10,9 @@ Useful commands and programs
 ⌃             | Control, Ctrl
 ⎋             | Escape, Esc
 ⏏            | Eject
+
+## Programs
+
+* Spotlight Search
+* MuCommander
+* Folx - torrent downloader
